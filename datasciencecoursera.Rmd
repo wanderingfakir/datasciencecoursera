@@ -1,5 +1,5 @@
 ---
-title: "COURSERA TEST"
+title: "Hello World"
 author: "David Premier (wandering fakir)"
 date: "26/04/2020"
 output: html_document
@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## This is a Markdown file
+## This Is A Markdown File 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
